@@ -63,14 +63,15 @@ export const Contact = styled.p`
 `
 export const SocialMediaBox = styled.div`
   display: flex;
-  align-items: center;
+  justify-content: flex-start;
 `
 export const SocialIcons = styled.img`
   width: 40px;
   margin-right: 10px;
   @media screen and (max-width: 1500px) {
-    width: 60%;
+    width: 20%;
     margin-left: 8px;
+    margin-right: 2px;
   }
 `
 export const ContactText = styled.p`
