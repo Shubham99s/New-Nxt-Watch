@@ -1,26 +1,17 @@
 Published-Website :- https://nxtwatchshubh.ccbp.tech/
 
-In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
+Developed the Nxt Watch platform, a YouTube-inspired application where users can access various video 
+categories, such as Trending, Gaming, and Saved videos, and search for specific content while customising the 
+visual theme.
+● Crafted a responsive UI with React components for pages like Login, Home, Trending, Gaming, and 
+Saved videos, utilising event handlers and form inputs.
+● Established user authentication through username/password input and HTTP API calls,
+maintaining login state with JWT tokens and local storage.
+● Enabled secure navigation using React Router components for protected routes,
+redirecting unauthenticated users to the login page.
+Technologies used: React JS, JavaScript, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, 
+Authorization, Authentication.
 
-### Refer to videos below:
-
-**Success View** <br/>
-
-<div style="text-align: center;">
-     <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
-
-**Failure View** <br/>
-
-<div style="text-align: center;">
-    <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
 
 ### Design Files
 
