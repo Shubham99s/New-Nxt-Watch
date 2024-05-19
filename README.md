@@ -16,6 +16,8 @@ redirecting unauthenticated users to the login page.
 Technologies used: React JS, JavaScript, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, 
 Authorization, Authentication.
 
+Login Credentials :-  username: rahul  password: rahul@2021
+
 
 ### Design Files
 
