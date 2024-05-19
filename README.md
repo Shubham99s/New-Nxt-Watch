@@ -3,12 +3,16 @@ Published-Website :- https://nxtwatchshubh.ccbp.tech/
 Developed the Nxt Watch platform, a YouTube-inspired application where users can access various video 
 categories, such as Trending, Gaming, and Saved videos, and search for specific content while customising the 
 visual theme.
+
 ● Crafted a responsive UI with React components for pages like Login, Home, Trending, Gaming, and 
 Saved videos, utilising event handlers and form inputs.
+
 ● Established user authentication through username/password input and HTTP API calls,
 maintaining login state with JWT tokens and local storage.
+
 ● Enabled secure navigation using React Router components for protected routes,
 redirecting unauthenticated users to the login page.
+
 Technologies used: React JS, JavaScript, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, 
 Authorization, Authentication.
 
@@ -633,10 +637,3 @@ console.log(formatDistanceToNow(new Date(2021, 8, 20)))
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
